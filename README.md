@@ -45,9 +45,6 @@ Após o tratamento, o dataset ficou consistente e pronto para análise.
 
 ---
 
-
----
-
 ## 🛠️ Tecnologias
 
 - Python 3, pandas e NumPy (tratamento e análise)
