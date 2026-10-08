@@ -45,6 +45,41 @@ Após o tratamento, o dataset ficou consistente e pronto para análise.
 
 ---
 
+
+---
+
+## 🛠️ Tecnologias
+
+- Python 3, pandas e NumPy (tratamento e análise)
+- Matplotlib (visualizações)
+- requests (importação dos dados via API)
+- Jupyter Notebook / Google Colab
+
+---
+
+## 📁 Estrutura do projeto
+
+```
+Challenge-Alura-TelecomX/
+├── Alura_TelecomX.ipynb   # importação, limpeza, EDA e relatório final
+└── README.md
+```
+
+---
+
+## ▶️ Como executar
+
+1. Abra `Alura_TelecomX.ipynb` no Google Colab ou no Jupyter.
+2. Execute as células em ordem. Os dados são importados via API pelo próprio notebook.
+
+---
+
+## 🔗 Próxima etapa
+
+A modelagem preditiva desta análise está em [Challenge-Alura-TelecomX-Parte-2](https://github.com/EduardoCunhaConti/Challenge-Alura-TelecomX-Parte-2).
+
+---
+
 ## 📊 Análise Exploratória de Dados (EDA)
 
 ### 📌 Distribuição da Variável Alvo
@@ -103,3 +138,9 @@ Analisadas:
 - Criar programa de retenção nos primeiros meses.
 - Oferecer benefícios para pagamento automático.
 - Desenvolver modelo preditivo de churn.
+
+---
+
+## 👨‍💻 Autor
+
+Eduardo da Cunha Conti — Challenge de Data Science do programa ONE (Oracle Next Education × Alura).
